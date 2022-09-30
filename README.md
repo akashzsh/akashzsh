@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash
 - 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently learning CS Engineering
+- 🌱 I’m currently pursuing my B.E. in CS Engineering
 - 📫 How to reach me ... DM on Insta @akash.space
 
 
