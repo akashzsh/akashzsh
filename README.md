@@ -9,7 +9,16 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashinfinity12&layout=compact&exclude_repo=Machine-Learning&langs_count=8)](https://github.com/akashinfinity12)
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashinfinity12&layout=compact&exclude_repo=Machine-Learning&langs_count=8">
+</td>
+<td>
+<img src="https://streak-stats.demolab.com/?user=akashinfinity12&theme=blood-dark">
+</td>
+</tr>
+</table>
 
 <!---
 akashinfinity12/akashinfinity12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
