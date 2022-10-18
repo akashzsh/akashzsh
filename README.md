@@ -1,6 +1,7 @@
 - 👋 Hello World, I’m Akash
 - 👀 I’m interested in Mathematics and Computer Science
 - 🌱 I’m currently pursuing my B.E. in CS Engineering
+- :briefcase: Currently doing an internship at VMentor.AI
 - 📫 How to reach me ... DM on Insta @\_akashinfinity\_
 
 <hr>
