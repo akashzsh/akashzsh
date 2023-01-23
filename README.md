@@ -6,7 +6,7 @@
 
 <hr>
 
-[![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=akashinfinity12&theme=github)](https://github.com/akashinfinity12)
+[![Akash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=akashinfinity12&theme=github)](https://github.com/akashinfinity12)
 
 <hr>
 
