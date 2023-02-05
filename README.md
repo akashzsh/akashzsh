@@ -1,7 +1,7 @@
 - 👋 Hello World, I’m Akash
 - 👀 I’m interested in Mathematics and Computer Science
-- 🌱 I’m currently pursuing my B.E. in CS Engineering
-- :briefcase: Currently doing an internship at VMentor.AI \<MERN STACK\>
+- 🌱 I’m currently pursuing my Bachelor's in Computer Engineering
+- :briefcase: Currently doing an internship at VMentor.AI (MERN STACK)
 - 📫 How to reach me ... akashinfinity12@gmail.com
 
 <hr>
