@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mathematics and Computer Science
 - :mortar_board: Bachelor's in Computer Engineering
 - :briefcase: Currently doing an internship at VMentor.AI
-- 📫 How to reach me ... akashinfinity12@gmail.com
+- 📫 Discord: ```akashzsh```
 
 <hr>
 
