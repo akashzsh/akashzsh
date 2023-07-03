@@ -1,7 +1,7 @@
 - 👋 Hello World, I’m Akash
 - 👀 I’m interested in Mathematics and Computer Science
 - :mortar_board: Bachelor's in Computer Engineering
-- :briefcase: Currently doing an internship at VMentor.AI
+- :briefcase: Systems Engineer in TCS
 - 📫 Discord: ```akashzsh```
 
 <hr>
