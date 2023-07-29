@@ -1,7 +1,6 @@
 - 👋 Hello World, I’m Akash
 - 👀 I’m interested in Mathematics and Computer Science
 - :mortar_board: Bachelor's in Computer Engineering
-- :briefcase: Systems Engineer - TATA
 - 📫 Discord: ```akashzsh```
 
 <hr>
