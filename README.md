@@ -40,22 +40,22 @@
 
 <hr>
 
-[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashinfinity12&theme=github-compact)](https://github.com/akashinfinity12)
+[![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashzsh&theme=github-compact)](https://github.com/akashzsh)
 
 <hr>
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashinfinity12&layout=compact&exclude_repo=Machine-Learning&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashzsh&layout=compact&exclude_repo=Machine-Learning&langs_count=8">
 </td>
 <td>
-<img src="https://streak-stats.demolab.com/?user=akashinfinity12&theme=blood-dark">
+<img src="https://streak-stats.demolab.com/?user=akashzsh&theme=blood-dark">
 </td>
 </tr>
 </table>
 
 <!---
-akashinfinity12/akashinfinity12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+akashzsh/akashzsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
