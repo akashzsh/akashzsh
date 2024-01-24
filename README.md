@@ -1,7 +1,7 @@
 - 👋 Hello World, I’m Akash
 - 👀 I’m interested in Mathematics and Computer Science
 - :mortar_board: Bachelor's in Computer Engineering
-- 💼 Systems Engineer at Tata Consultancy Services
+- 💼 Blockchain Developer (Systems Engineer) at Tata Consultancy Services
 - 📫 Discord: ```akashzsh```
 
 <hr>
