@@ -39,6 +39,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+<!--
 <hr>
 
 [![Akash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akashzsh&theme=github-compact)](https://github.com/akashzsh)
@@ -55,6 +56,7 @@
 </td>
 </tr>
 </table>
+--->
 
 <!---
 akashzsh/akashzsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
